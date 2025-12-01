@@ -1,0 +1,42 @@
+.caja1{
+margin: 2%;
+background-color: rgb(223, 213, 157);
+padding: 20px;
+border: 10px solid #d6be35;
+width: 40%;
+text-align: justify;
+float: left;
+}
+
+.caja2 {
+clear: left;
+background-color: #ddd18f;
+border: 3px dashed #000000;
+border-radius: 10px 50px;
+box-shadow: 5px 9px 10px gray;
+width: 40%;
+text-align: justify;
+padding: 20px;
+margin: 2%;
+float: left;
+}
+
+.caja3 {
+border: 15px solid transparent;
+padding: 10px;
+margin-bottom: 30px;
+border-image-source: url('img/hormigas.png');
+border-image-slice: 20; 
+border-image-repeat: round;
+border-radius: 20px;
+}
+
+p.bola {
+border: 10px solid transparent;
+padding: 15px;
+border-image: url(./img/bola-100.png) 20 stretch;
+}
+
+border-image-slice
+
+border-image-repeat
